@@ -4,4 +4,3 @@ class Person
   end
   
 end
-
